@@ -1,1 +1,0 @@
-# easyke-proto
